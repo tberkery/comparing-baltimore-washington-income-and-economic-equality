@@ -1,0 +1,16 @@
+﻿"cty","Name","Household_Income_rNA_gP_pall","Incarceration_Rate_rNA_gP_pall","Teenage_Birth_Rate_women_only_rNA_gP_pall","Individual_Income_Excluding_Spouse_rNA_gP_pall","Fraction_Married_rNA_gP_pall","Spouse's_Income_rNA_gP_pall","Employment_Rate_rNA_gP_pall","High_School_Graduation_Rate_rNA_gP_pall","College_Graduation_Rate_rNA_gP_pall","Hours_Worked_Per_Week_rNA_gP_pall","Hourly_Wage_$/hour_rNA_gP_pall","Frac._in_Top_20%_Based_on_Household_Income_rNA_gP_pall","Frac._In_Top_1%_Based_on_Household_Income_rNA_gP_pall","Frac._in_Top_20%_Based_on_Indiv_Income_rNA_gP_pall","Frac._In_Top_1%_Based_on_Indiv._Income_rNA_gP_pall","%_Staying_in_Same_Commuting_Zone_as_Adults_rNA_gP_pall","%_Staying_in_Same_Tract_as_Adults_rNA_gP_pall","Household_Income_Stayed_in_Commuting_Zone_rNA_gP_pall","Individual_Income_Stayed_in_Commuting_Zone_rNA_gP_pall","Household_Income_for_U.S._Natives_rNA_gP_pall","Household_Income_for_Immigrants_rNA_gP_pall","Individual_Income_for_U.S._Natives_rNA_gP_pall","Individual_Income_for_Immigrants_rNA_gP_pall","Number_of_Children_rNA_gP_pall"
+"cty11001","District of Columbia, DC",25318,0.0793,,21642,0.1405,,0.605,0.8536,,,,0.0782,0,0.1269,0,0.7333,0.2496,26637,22463,,,,,238
+"cty24003","Anne Arundel County, MD",37220,0.0068,,27693,0.2975,43295,0.7598,0.9579,0.1031,,,0.1437,0.0064,0.1753,0.0064,0.6323,0.2373,38616,28052,42061,,27330,,313
+"cty24009","Calvert County, MD",,,,,,,,,,,,,,,,,,,,,,,,
+"cty24017","Charles County, MD",41594,0,,33302,0.2571,42654,0.8233,,,,,0.1144,0,0.2335,0,0.8216,0.2995,41298,34228,36567,,22487,,212
+"cty24031","Montgomery County, MD",43101,0.0046,,31966,0.368,42751,0.7915,0.8271,,,,0.1785,0.0113,0.2507,0,0.6188,0.1871,40493,31322,38280,,29822,,458
+"cty24033","Prince George's County, MD",36449,0.015,,31275,0.2607,42007,0.8118,0.9451,0.3687,,,0.0859,0.0003,0.2318,0.0003,0.7443,0.3018,37581,33279,34600,,33010,,586
+"cty51013","Arlington County, VA",46076,0.0196,,28120,0.4678,,0.6612,,,,,0.0854,0,0.172,0,0.7109,0.132,44698,29160,,,,,71
+"cty51059","Fairfax County, VA",43114,0.0143,,31387,0.4059,40264,0.751,0.8438,0.098,,,0.2196,0.0117,0.2663,0.0375,0.5852,0.1437,41749,31177,38831,,33824,,488
+"cty51107","Loudoun County, VA",38397,0.0011,,20224,0.5773,,0.6054,,,,,0.1746,0,0.0903,0.0209,0.5258,0.1104,,,,,,,72
+"cty51153","Prince William County, VA",39777,0.0008,,30855,0.4162,30162,0.7683,,,,,0.1192,0.0017,0.2751,0.0017,0.5772,0.2055,39742,30786,38515,,32029,,232
+"cty51510","Alexandria city, VA",27821,0.1061,,19840,0.3518,,0.6428,,,,,0.089,0,0.1324,0,0.6762,0.0719,,,,,,,38
+"cty51600","Fairfax city, VA",,,,,,,,,,,,,,,,,,,,,,,,
+"cty51610","Falls Church city, VA",,,,,,,,,,,,,,,,,,,,,,,,
+"cty51683","Manassas city, VA",,,,,,,,,,,,,,,,,,,,,,,,
+"cty51685","Manassas Park city, VA",,,,,,,,,,,,,,,,,,,,,,,,
